@@ -1,0 +1,104 @@
+{
+    "meta": {
+        "date": "2024-03-23",
+        "version": "0.9.0"
+    },
+    "data": [
+        {
+            "name": "Assemble a Lineup",
+            "text": "Quest: Summon 17 minions.",
+            "id": "BG24_Quest_114",
+            "isActive": true
+        },
+        {
+            "name": "Crack the Case",
+            "text": "Quest: Have friendly minions attack 12 times.",
+            "id": "BG24_Quest_352",
+            "isActive": true
+        },
+        {
+            "name": "Cry for Help",
+            "text": "Quest: Play 4 Battlecry minions.",
+            "id": "BG24_Quest_311",
+            "isActive": true
+        },
+        {
+            "name": "Dust for Prints",
+            "text": "Quest: Add 20 cards to your hand.",
+            "id": "BG24_Quest_314",
+            "isActive": true
+        },
+        {
+            "name": "Fill the Cauldron",
+            "text": "Quest: Cast 9 spells.",
+            "id": "BG28_Quest_500",
+            "isActive": true
+        },
+        {
+            "name": "Find the Murder Weapon",
+            "text": "Quest: Increase a friendly minion's stats 14 times.",
+            "id": "BG24_Quest_123",
+            "isActive": true
+        },
+        {
+            "name": "Follow the Money",
+            "text": "Quest: Spend 33 Gold.",
+            "id": "BG24_Quest_126",
+            "isActive": true
+        },
+        {
+            "name": "Hire an Investigator",
+            "text": "Quest: End your turn with unspent Gold 3 times.",
+            "id": "BG24_Quest_351",
+            "isActive": true
+        },
+        {
+            "name": "Invite the Guests",
+            "text": "Quest: Buy 6 minions.",
+            "id": "BG24_Quest_313",
+            "isActive": true
+        },
+        {
+            "name": "Pressure the Authorities",
+            "text": "Quest: Get your warband to 35 total Attack.",
+            "id": "BG27_Quest_801",
+            "isActive": true
+        },
+        {
+            "name": "Reenact the Murder",
+            "text": "Quest: Have 19 friendly minions die.",
+            "id": "BG24_Quest_124",
+            "isActive": true
+        },
+        {
+            "name": "Round up the Suspects",
+            "text": "Quest: Destroy 18 enemy minions.",
+            "id": "BG27_Quest_802",
+            "isActive": true
+        },
+        {
+            "name": "Sort It All Out",
+            "text": "Quest: Order your minions from lowest to highest Attack for 4 combats.",
+            "id": "BG24_Quest_125",
+            "isActive": true
+        },
+        {
+            "name": "Unlikely Duo",
+            "text": "Quest: Play 5 minions from [either of two randomly selected types].",
+            "id": "BG24_Quest_151",
+            "isActive": true
+        },
+        {
+            "name": "Unmask the Culprit",
+            "text": "Quest: Lose or tie 3 combats.",
+            "id": "BG24_Quest_120",
+            "isActive": true
+        },
+        {
+            "name": "Witness Protection",
+            "text": "Quest: Have a friendly Taunt minion attacked 6 times.",
+            "id": "BG24_Quest_318",
+            "isActive": true
+        }
+    ]
+}

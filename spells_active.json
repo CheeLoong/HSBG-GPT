@@ -1,0 +1,400 @@
+{
+    "meta": {
+        "date": "2024-03-23",
+        "version": "0.9.0"
+    },
+    "data": [
+        {
+            "name": "Them Apples",
+            "tier": 1,
+            "cost": 1,
+            "text": "Give minions in the Tavern +1/+3.",
+            "id": "BG28_966",
+            "isActive": true
+        },
+        {
+            "name": "Tavern Coin",
+            "tier": 1,
+            "cost": 1,
+            "text": "Gain 1 Gold.",
+            "id": "BG28_810",
+            "isActive": true
+        },
+        {
+            "name": "Pointy Arrow",
+            "tier": 1,
+            "cost": 1,
+            "text": "Give a minion +4 Attack.",
+            "id": "EBG_Spell_014",
+            "isActive": true
+        },
+        {
+            "name": "Fortify",
+            "tier": 1,
+            "cost": 1,
+            "text": "Give a minion +3 Health and Taunt.",
+            "id": "BG28_503",
+            "isActive": true
+        },
+        {
+            "name": "Tavern Dish Banana",
+            "tier": 1,
+            "cost": 1,
+            "text": "Give a minion +2/+2.",
+            "id": "BG28_897",
+            "isActive": true
+        },
+        {
+            "name": "Recruit a Trainee",
+            "tier": 1,
+            "cost": 2,
+            "text": "Get a random Tier 1 minion.",
+            "id": "BG28_504",
+            "isActive": true
+        },
+        {
+            "name": "Enchanted Lasso",
+            "tier": 1,
+            "cost": 2,
+            "text": "Steal a random minion from Bob's Tavern.",
+            "id": "BG28_512",
+            "isActive": true
+        },
+        {
+            "name": "Careful Investment",
+            "tier": 2,
+            "cost": 1,
+            "text": "Gain 2 Gold next turn.",
+            "id": "BG28_800",
+            "isActive": true
+        },
+        {
+            "name": "Lantern Light",
+            "tier": 2,
+            "cost": 1,
+            "text": "Give a minion stats equal to your Tier.",
+            "id": "BG28_885",
+            "isActive": true
+        },
+        {
+            "name": "Chef's Choice",
+            "tier": 2,
+            "cost": 2,
+            "text": "Choose a minion. Get a different minion of the same type.",
+            "id": "BG28_518",
+            "isActive": true
+        },
+        {
+            "name": "Shiny Ring",
+            "tier": 2,
+            "cost": 2,
+            "text": "Give your minions +1/+1.",
+            "id": "BG28_168",
+            "isActive": true
+        },
+        {
+            "name": "Strike Oil",
+            "tier": 2,
+            "cost": 3,
+            "text": "Increase your maximum Gold by 1.",
+            "id": "BG28_805",
+            "isActive": true
+        },
+        {
+            "name": "Hasty Excavation",
+            "tier": 2,
+            "cost": 3,
+            "text": "Gain 1 Gold. This costs Health to buy instead of Gold.",
+            "id": "BG28_571",
+            "isActive": true
+        },
+        {
+            "name": "Overconfidence",
+            "tier": 3,
+            "cost": 1,
+            "text": "If you win your next combat, gain 3 Gold. If you tie, gain 1.",
+            "id": "BG28_884",
+            "isActive": true
+        },
+        {
+            "name": "Tricky Trousers",
+            "tier": 3,
+            "cost": 1,
+            "text": "Give a minion +1/+2 and Taunt. If it already has Taunt, remove it.",
+            "id": "BG28_520",
+            "isActive": true
+        },
+        {
+            "name": "Fleeting Vigor",
+            "tier": 3,
+            "cost": 1,
+            "text": "Give a minion +7/+7 until next turn. ",
+            "id": "BG28_519",
+            "isActive": true
+        },
+        {
+            "name": "Staff of Enrichment",
+            "tier": 3,
+            "cost": 2,
+            "text": "Minions in the Tavern have +1/+2 this game.",
+            "id": "BG28_886",
+            "isActive": true
+        },
+        {
+            "name": "Echoing Roar",
+            "tier": 3,
+            "cost": 3,
+            "text": "Give a friendly minion \"At the end of your turn, gain +2/+2.\"",
+            "id": "BG28_814",
+            "isActive": true
+        },
+        {
+            "name": "Natural Blessing",
+            "tier": 3,
+            "cost": 3,
+            "text": "Choose a minion. Give all minions that share a type with it +2/+2.",
+            "id": "BG28_845",
+            "isActive": true
+        },
+        {
+            "name": "Suspicious Stimulant",
+            "tier": 3,
+            "cost": 3,
+            "text": "Choose a minion in the Tavern. Lock it in your hand for one turn and double its stats.",
+            "id": "BG28_605",
+            "isActive": true
+        },
+        {
+            "name": "Planar Telescope",
+            "tier": 3,
+            "cost": 4,
+            "text": "Discover a minion of your most common type.",
+            "id": "BG28_521",
+            "isActive": true
+        },
+        {
+            "name": "Gem Confiscation",
+            "tier": 4,
+            "cost": 1,
+            "text": "Play 2 Blood Gems on a friendly minion. It steals all Blood Gems from its neighbors.",
+            "id": "BG28_698",
+            "isActive": true
+        },
+        {
+            "name": "Ritual of Growth",
+            "tier": 4,
+            "cost": 2,
+            "text": "Replace all cards in the Tavern with ones of a Tier higher.",
+            "id": "BG28_812",
+            "isActive": true
+        },
+        {
+            "name": "Toxic Tumbleweed",
+            "tier": 4,
+            "cost": 2,
+            "text": "Start of Combat: Summon a 1/1 Tumbling Assassin with Venomous. It attacks immediately.",
+            "id": "BG28_641",
+            "isActive": true
+        },
+        {
+            "name": "Boon of Beetles",
+            "tier": 4,
+            "cost": 2,
+            "text": "Start of Combat: Give your minions \"Deathrattle: Summon a 2/2 Beetle.\"",
+            "id": "BG28_603",
+            "isActive": true
+        },
+        {
+            "name": "Butchering",
+            "tier": 4,
+            "cost": 2,
+            "text": "Destroy a friendly Undead. Your Undead have extra Attack equal to its Tier this game.",
+            "id": "BG28_604",
+            "isActive": true
+        },
+        {
+            "name": "Spitescale Special",
+            "tier": 4,
+            "cost": 2,
+            "text": "Get 3 random Spellcraft spells.",
+            "id": "BG28_606",
+            "isActive": true
+        },
+        {
+            "name": "Brann's Blessing",
+            "tier": 4,
+            "cost": 3,
+            "text": "Your Battlecries trigger twice until next turn.",
+            "id": "BG28_509",
+            "isActive": true
+        },
+        {
+            "name": "Misplaced Tea Set",
+            "tier": 4,
+            "cost": 3,
+            "text": "Give a friendly minion of each type +3/+3.",
+            "id": "BG28_888",
+            "isActive": true
+        },
+        {
+            "name": "Hired Headhunter",
+            "tier": 4,
+            "cost": 3,
+            "text": "Discover a Battlecry minion.",
+            "id": "BG28_GIL_836",
+            "isActive": true
+        },
+        {
+            "name": "Contracted Corpse",
+            "tier": 4,
+            "cost": 3,
+            "text": "Discover a Deathrattle minion.",
+            "id": "BG28_882",
+            "isActive": true
+        },
+        {
+            "name": "Defender's Rites",
+            "tier": 4,
+            "cost": 3,
+            "text": "Give a friendly minion +8/+8 and Taunt.",
+            "id": "BG28_825",
+            "isActive": true
+        },
+        {
+            "name": "Dreamer's Embrace",
+            "tier": 4,
+            "cost": 3,
+            "text": "Trigger a friendly minion's Battlecry.",
+            "id": "BG28_883",
+            "isActive": true
+        },
+        {
+            "name": "Scavenge for Parts",
+            "tier": 4,
+            "cost": 4,
+            "text": "At the end of your turn, get a random Magnetic minion. Lasts 3 turns.",
+            "id": "BG28_600",
+            "isActive": true
+        },
+        {
+            "name": "Guzzle the Goop",
+            "tier": 4,
+            "cost": 4,
+            "text": "At the end of your turn, give your Dragons +4 Attack. Lasts 3 turns.",
+            "id": "BG28_602",
+            "isActive": true
+        },
+        {
+            "name": "Plunder Seeker",
+            "tier": 4,
+            "cost": 7,
+            "text": "Steal a random card from the Tavern. Repeat for each friendly Pirate.",
+            "id": "BG28_609",
+            "isActive": true
+        },
+        {
+            "name": "Fluidity",
+            "tier": 5,
+            "cost": 1,
+            "text": "Swap a friendly non-Golden minion with a random one in the Tavern.",
+            "id": "BG28_612",
+            "isActive": true
+        },
+        {
+            "name": "Primal Staff",
+            "tier": 5,
+            "cost": 3,
+            "text": "Your end of turn effects trigger twice this turn.",
+            "id": "BG28_955",
+            "isActive": true
+        },
+        {
+            "name": "Armor Stash",
+            "tier": 5,
+            "cost": 3,
+            "text": "Set your Armor to 5.",
+            "id": "BG28_500",
+            "isActive": true
+        },
+        {
+            "name": "Unmasked Identity",
+            "tier": 5,
+            "cost": 3,
+            "text": "Discover a new Hero Power.",
+            "id": "EBG_Spell_037",
+            "isActive": true
+        },
+        {
+            "name": "Upper Hand",
+            "tier": 5,
+            "cost": 3,
+            "text": "Start of Combat: Set a random enemy minion's Health to 1.",
+            "id": "BG28_573",
+            "isActive": true
+        },
+        {
+            "name": "Corrupted Cupcakes",
+            "tier": 5,
+            "cost": 3,
+            "text": "Choose a friendly Demon. It consumes all minions in the Tavern to gain their stats.",
+            "id": "BG28_607",
+            "isActive": true
+        },
+        {
+            "name": "Golden Touch",
+            "tier": 5,
+            "cost": 5,
+            "text": "Make a random minion in the Tavern Golden.",
+            "id": "BG28_830",
+            "isActive": true
+        },
+        {
+            "name": "Perfect Vision",
+            "tier": 6,
+            "cost": 2,
+            "text": "Set a minion's stats to 20/20. ",
+            "id": "BG28_838",
+            "isActive": true
+        },
+        {
+            "name": "Saloon's Finest",
+            "tier": 6,
+            "cost": 2,
+            "text": "Refresh the Tavern with Tavern spells.",
+            "id": "BG28_849",
+            "isActive": true
+        },
+        {
+            "name": "Lost Staff of Hamuul",
+            "tier": 6,
+            "cost": 2,
+            "text": "Choose a minion. Refresh the Tavern with minions of that type.",
+            "id": "EBG_Spell_038",
+            "isActive": true
+        },
+        {
+            "name": "Azerite Empowerment",
+            "tier": 6,
+            "cost": 4,
+            "text": "Give your minions +4/+4.",
+            "id": "BG28_169",
+            "isActive": true
+        },
+        {
+            "name": "Channel the Devourer",
+            "tier": 6,
+            "cost": 4,
+            "text": "Remove a minion. Give its stats to a random friendly minion.",
+            "id": "EBG_Spell_032",
+            "isActive": true
+        },
+        {
+            "name": "Sacred Gift",
+            "tier": 6,
+            "cost": 6,
+            "text": "Give a minion Divine Shield.",
+            "id": "BG28_507",
+            "isActive": true
+        }
+    ]
+}
